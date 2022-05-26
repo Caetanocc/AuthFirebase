@@ -1,13 +1,14 @@
 // Initialize Firebase
 var config = {
-  //databaseURL: "https://fir-authentication-57ab5.firebaseio.com",
 
-  apiKey: "AIzaSyCiu-C1p-ko9y7acOHcPXOA1H4w74y_wg8",
+  // incluir aqui os dados do seu projeto
+  
+  apiKey: " ",
   authDomain: "etec1-43d9d.firebaseapp.com",
-  projectId: "etec1-43d9d",
-  storageBucket: "etec1-43d9d.appspot.com",
-  messagingSenderId: "683870863325",
-  appId: "1:683870863325:web:17889b939c7f1426fa4034",
+  projectId: " ",
+  storageBucket: ".appspot.com",
+  messagingSenderId: "",
+  appId: " ",
   measurementId: "G-L4475VW8X5"
 };
 firebase.initializeApp(config);
