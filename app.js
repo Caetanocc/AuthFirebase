@@ -3,13 +3,14 @@ var config = {
 
   // incluir aqui os dados do seu projeto
   
-  apiKey: " ",
-  authDomain: "etec1-43d9d.firebaseapp.com",
-  projectId: " ",
-  storageBucket: ".appspot.com",
-  messagingSenderId: "",
-  appId: " ",
-  measurementId: "G-L4475VW8X5"
+  apiKey: "AIzaSyCuUplE_IHR2rfGODOBarvglhA3N0IxlKM",
+  authDomain: "etec-8fc58.firebaseapp.com",
+  databaseURL: "https://etec-8fc58-default-rtdb.firebaseio.com",
+  projectId: "etec-8fc58",
+  storageBucket: "etec-8fc58.appspot.com",
+  messagingSenderId: "255857027178",
+  appId: "1:255857027178:web:1671f0c917ec7e560f8213",
+  measurementId: "G-HN1EG8MV2C"
 };
 firebase.initializeApp(config);
 
