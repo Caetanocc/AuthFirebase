@@ -11,6 +11,7 @@ var config = {
   appId: " ",
   measurementId: "G-L4475VW8X5"
 };
+
 firebase.initializeApp(config);
 
 // Firebase Variables
